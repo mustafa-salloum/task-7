@@ -1,0 +1,18 @@
+.service{
+    background-color: darkgray;
+    text-align: center;
+    width: 100%;
+}
+p{
+color: teal;
+}
+.service-one{
+display: inline-block;
+width: 24%;
+background-color: aqua;
+}
+i{
+    color:red;
+    width: 80px;
+
+}
